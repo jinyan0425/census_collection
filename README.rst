@@ -73,9 +73,9 @@ The functions above will return a long-format dataframe (with geo-location and y
 
 * the example output for collecting single-year data
 
-.. image:: census_data_collection/single_year.png
+.. image:: images/single_year.png
 
 * the example output for collecting multi-year data
 
-.. image:: census_data_collection/multi_year.png
+.. image:: images/multi_year.png
 
