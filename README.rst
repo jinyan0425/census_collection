@@ -1,4 +1,4 @@
-census_collection
+census_data_collection
 ===============
 A package improving the data collection process from United States Census Bureaus's API).
 
