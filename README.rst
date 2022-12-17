@@ -14,7 +14,7 @@ Install
 ============
 ::
 
-  pip install example-publish-pypi-medium
+  pip install census_data_collection
 
 Usage and Example
 =====
@@ -52,7 +52,7 @@ find out all variables using https://api.census.gov/data/[year]/acs/[estimate]/v
 Now, you are ready to collect initatiate an object for collecting data
 ::
 
-    from censuscollection import ACS_data
+    from census_data_collection import ACS_data
     
     ACS_data(1, var_dict, geo_setting, api_key)
 
