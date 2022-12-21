@@ -75,7 +75,7 @@ class ACS_data:
         if self.est == 3:
             method = c.acs3
         if self.est == 5:
-            method = c.acs1
+            method = c.acs5
             
         data_yearly_raw = method.get(list(full_dict.keys()),
                                  {'for':self.geo_setting},
